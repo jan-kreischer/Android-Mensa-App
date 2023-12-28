@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<style name="Theme.Workshop" parent="Theme.AppCompat.DayNight.NoActionBar" >
+		<item name="colorPrimary">@color/ubique_sky</item>
+		<item name="colorPrimaryDark">@color/ubique_sky_dark</item>
+		<item name="android:statusBarColor">@color/ubique_sky</item>
+	</style>
+</resources>
